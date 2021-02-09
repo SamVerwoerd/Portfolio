@@ -1,0 +1,64 @@
+body {
+    background-image: url("../img/bord.jpg");
+}
+
+.container .navbar{
+    background-color: #F9E2DA;
+}
+
+#content{
+    background-color: #F9E2DA;
+    padding-top:20px;
+}
+#footer{
+    padding:20px;
+}
+
+.designText{
+    text-align: center;
+}
+.img-list{
+    max-width: 100px;
+}
+
+.green{
+    background-color: #B9D4CD;
+    padding-top: 20px;
+
+}
+
+.pink{
+    background-color: #F9E2DA;
+    padding-top: 20px;
+
+}
+
+.white{
+    background-color: #fff;
+    padding-top: 20px;
+
+}
+
+.grey{
+    background-color: #CFD0D3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.jumbotron-text{
+    text-align: center;
+    color:white;
+}
+
+.jumbo {
+    background-image: url("../img/jumbotron.png");
+    background-size: cover;
+    color:black;
+}
+
+.jumbotron {
+    background-image: url("../img/boek.jpg");
+    background-size: cover;
+    margin-bottom: 0rem !important;
+}
